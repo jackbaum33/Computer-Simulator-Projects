@@ -1,8 +1,3 @@
-/**
- * Project 2
- * Assembler code fragment for LC-2K
- */
-
 #include <stdbool.h>
 #include <stdlib.h>
 #include <stdint.h>

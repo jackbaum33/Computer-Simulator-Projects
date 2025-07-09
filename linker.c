@@ -1,8 +1,3 @@
-/**
- * Project 2
- * LC-2K Linker
- */
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

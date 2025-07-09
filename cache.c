@@ -1,9 +1,3 @@
-/*
- * EECS 370, University of Michigan
- * Project 4: LC-2K Cache Simulator
- * Instructions are found in the project spec.
- */
-
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>

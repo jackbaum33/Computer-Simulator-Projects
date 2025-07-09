@@ -1,10 +1,3 @@
-/*
- * EECS 370, University of Michigan, Fall 2023
- * Project 3: LC-2K Pipeline Simulator
- * Instructions are found in the project spec: https://eecs370.github.io/project_3_spec/
- * Make sure NOT to modify printState or any of the associated functions
-**/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
